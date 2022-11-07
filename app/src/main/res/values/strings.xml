@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TMDBApp</string>
+    <string name="title">Android Training</string>
     <string name="api_key">456b638afee7c7179adac748bc9d5bc7</string>
 </resources>
